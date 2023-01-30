@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   dart_ipify: ^1.1.1
   permission_handler: ^10.0.0
+  connectivity_plus: ^3.0.2
+  sqflite: ^2.2.4+1
+  path_provider: ^2.0.11
 
 dev_dependencies:
   flutter_test:
