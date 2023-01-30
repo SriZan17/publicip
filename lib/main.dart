@@ -31,6 +31,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   Future<String> ipv4 = Ipify.ipv4();
   Future<String> ipv6 = Ipify.ipv64();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
