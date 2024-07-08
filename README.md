@@ -1,6 +1,6 @@
 # publicip
 
-A new Flutter project.
+A minimal app that keeps track of your IP Adresses.
 
 ## Getting Started
 
